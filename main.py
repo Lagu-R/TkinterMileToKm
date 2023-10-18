@@ -1,4 +1,4 @@
-MILE TO KM Tkinter project
+
  from tkinter import *
  
  window = Tk()
